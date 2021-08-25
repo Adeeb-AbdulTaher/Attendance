@@ -40,8 +40,8 @@ current_time = datetime.datetime.now(pytz.timezone('Asia/Kolkata'))
 
 smtp_server = "smtp.gmail.com"
 port = 587
-receiver_email = "adeebabdultaher@gmail.com"
-sender_email = "adeebcooltaher@gmail.com"
+receiver_email = "*************@gmail.com"
+sender_email = "**************@gmail.com"
 password = input("Type your password and press enter: ")
 
 message = f"Subject: Attendance for {branch} {sec}  \n\n Absentees- {absn}, \n\nPresent- {pres}, \n\nTotal present- {total}\n\n\n Regds;\n Adeeb \n\n\n this attendance was compiled at{current_time}"
