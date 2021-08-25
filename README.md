@@ -7,4 +7,6 @@ This was made for my convinience therefore is limited to my institute where the 
 The complete chat are to be copied and pasted into the terminal as input where the script is running.
 
 How the script exactly works is given as comments in the python file.
-The [first draft](https://github.com/Adeeb-AbdulTaher/Attendance/blob/main/Attendance%20IT-A.py) was only for my class, but the [Generalized version](https://github.com/Adeeb-AbdulTaher/Attendance/blob/main/Attendance%20Generalized.py) was useful for the complete College.
+The [first draft](https://github.com/Adeeb-AbdulTaher/Attendance/blob/main/Attendance%20IT-A.py) was only for my class, but the [Generalized version](https://github.com/Adeeb-AbdulTaher/Attendance/blob/main/AttendanceGeneralized.py) was useful for the complete College.
+
+Later I made it possible to directly send the Email to the required faculty regarding alll the deatails in [the final version](https://github.com/Adeeb-AbdulTaher/Attendance/blob/main/Attendancewithemail.py)
