@@ -29,7 +29,6 @@ else:
 branches={"737": "IT", "735": "ECE","733":"CSE","736":"MECH"}
 print('The Class is',branches.get(result[(x+6):(x+9)])," ", sec)
 
-
 pattern=result[x:(x+9)]
 allnums=[result[match.end():(match.end()+3)] for match in re.finditer(pattern, result)]
     
